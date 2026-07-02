@@ -38,10 +38,6 @@ Git • GitHub • Cypress • WordPress • Vercel • VS Code
 
 ## 🤝 Let's Connect
 
-🌐 Portfolio: www.carlosealford.com
-
-💼 LinkedIn
-
 📫 Always happy to connect with developers, collaborate on interesting projects or discuss software engineering.
 
 ## My GitHub stats :bar_chart:

@@ -1,44 +1,54 @@
-## Front-end developer
+# Software Developer | Frontend Specialist
 
 ![My banner image with a computer screen and shurikens](./webshuriken-banner-2024.png "My banner")
 
 > **"New ideas are ready to be devoured and redefined!"**
 
-**How did it all start?** playing a game on a PC that needed to be loaded using DOS.. I saw the black and white terminal and the words being typed ( i didn't know what they did ) but the computer responded, it was alien and it caught my curiousity!.
-When I became a bit older I watched a film about UNIX and started messing around with CMD in Windows. Even with my lack of knowledge CMD felt limited so I began doing some research about UNIX and that's when I learned about Linux! Bought a CD with a live version of Suse Linux and I was blown away. _Currently enjoying Fedora workstation but there have been others._
+## 👨‍💻 About Me
 
-## Tech tools I have used :hammer:
+My professional work has centred around JavaScript, PHP, CSS and WordPress, while my personal projects have become a playground for exploring modern software engineering with React, Next.js, TypeScript, Python and Node.js.
 
-<p foat="left">
-  <img width="120" alt="html 5 badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img width="120" alt="css 3 badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img width="120" alt="javascript badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img width="120" alt="typescript badge" src="https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=2f73bd" />
-  <img width="120" alt="python badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img width="120" alt="php badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" />
-  <img width="120" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img width="120" alt="nodejs badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
-  <img width="120" alt="postgres ql badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-  <img width="120" alt="mongo db badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img width="120" alt="react badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img width="120" alt="next js badge" src="https://img.shields.io/badge/Nextjs-191313?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img width="120" alt="django badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img width="120" alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
-  <img width="120" alt="sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" />
-  <img width="120" alt="tailwind badge" src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
-  <img width="120" alt="postman badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=ffffff" />
-  <img width="120" alt="jest testing badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" />
-  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff" />
-  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/GNU Bash-59a3a3?style=for-the-badge&logo=bash&logoColor=ffffff" />
-  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Zod-142641?style=for-the-badge&logo=zod&logoColor=3068b7" />
-  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=ffffff" />
-</p>
+What motivates me most isn't simply learning new frameworks—it's understanding the ideas behind them. Whether I'm extending WordPress internals, building a Markdown parser from scratch or optimising JavaScript performance, I enjoy solving problems by exploring documentation, experimenting with ideas and continually improving my understanding of software.
+
+## 🚀 Current Focus
+
+🎓 Preparing for the Level 3 Certificate in AI Programming
+⚛️ Building full-stack applications with React and Next.js
+🐍 Expanding my Python knowledge
+🧠 Learning software architecture and design patterns
+♿ Creating accessible, user-focused web experiences
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+JavaScript • TypeScript • React • Next.js • HTML5 • CSS3 • Tailwind CSS • Sass • Bootstrap
+
+**Backend**
+
+Node.js • Express.js • Django • PHP • REST APIs • Auth0
+
+**Databases**
+
+MongoDB • Prisma • SQL
+
+**Testing & Tools**
+
+Git • GitHub • Cypress • WordPress • Vercel • VS Code
+
+## 🤝 Let's Connect
+
+🌐 Portfolio: www.carlosealford.com
+
+💼 LinkedIn
+
+📫 Always happy to connect with developers, collaborate on interesting projects or discuss software engineering.
 
 ## My GitHub stats :bar_chart:
 
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages&&bg_color=e7f9f9&title_color=59a3a3" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&theme=one_dark_pro&title_color=bee8e8&text_color=ffd98c&icon_color=59a3a3)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&theme=one_dark_pro&title_color=bee8e8&text_color=ffd98c&icon_color=59a3a3)-->
 
 <!-- by: https://github.com/anuraghazra/github-readme-stats
 <p align="center">

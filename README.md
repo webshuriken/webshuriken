@@ -12,11 +12,11 @@ What motivates me most isn't simply learning new frameworks—it's understanding
 
 ## 🚀 Current Focus
 
-🎓 Preparing for the Level 3 Certificate in AI Programming
-⚛️ Building full-stack applications with React and Next.js
-🐍 Expanding my Python knowledge
-🧠 Learning software architecture and design patterns
-♿ Creating accessible, user-focused web experiences
+- 🎓 Preparing for the Level 3 Certificate in AI Programming
+- ⚛️ Building full-stack applications with React and Next.js
+- 🐍 Expanding my Python knowledge
+- 🧠 Learning software architecture and design patterns
+- ♿ Creating accessible, user-focused web experiences
 
 ## 🛠️ Tech Stack
 
@@ -38,9 +38,9 @@ Git • GitHub • Cypress • WordPress • Vercel • VS Code
 
 ## 🤝 Let's Connect
 
-📫 Always happy to connect with developers, collaborate on interesting projects or discuss software engineering.
+Always happy to connect with developers, collaborate on interesting projects or discuss software engineering.
 
-## My GitHub stats :bar_chart:
+## :bar_chart: My GitHub stats
 
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages&&bg_color=e7f9f9&title_color=59a3a3" />
 
